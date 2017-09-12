@@ -18,7 +18,7 @@
 <?php 
 $quotes = array("We accept the love we think we deserve", "Don't cry because it's over, smile because it happened", "So many books, so little time", "Be the change that you wish to see in the world", "No one can make you feel inferior without your consent");
 $random_quote = array_rand($quotes);
-echo "".\$quotes[$random_quote];
+echo "".$quotes[$random_quote];
 ?>
 </body>
 </html>

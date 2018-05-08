@@ -1,3 +1,3 @@
-# dwa15-p1
-# Practice repository for DWA
-http://dwa15.com
+# p1
+
+A random quote generator in PHP
